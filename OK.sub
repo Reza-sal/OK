@@ -67,3 +67,7 @@ hy2://f206702e@82.152.142.68:3341?insecure=1&sni=google.com#🇬🇧 United King
 hy2://f206702e@82.152.142.69:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
 hy2://01130e6dda139c1c@144.22.243.213:24749?insecure=1&sni=google.com#🇧🇷 Brazil
 
+vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@admin2.pythonic-ai.com:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&ed=2048&eh=Sec-Websocket-Protocol#%20DE%20%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%A9%F0%9F%87%AA
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@fr.vpnbase.net:80/?type=ws&encryption=none&flow=&host=vkvd127.mycdn.me&path=%2Fhttp&ed=2048&eh=Sec-Websocket-Protocol#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%B7%20FR%20
+vmess://eyJhZGQiOiIxMDcuMTczLjE0Ni4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZrdmQxMjcubXljZG4ubWUiLCJpZCI6IjU4MjAwOTNhLWJiN2QtNGUxNS04NTc1LTFhNTI5ZjJkODI4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IsKu77iP8J+RufCfh7rwn4e4IFVTICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI1NS5sd2RoLnVzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IjU1Lmx3ZGgudXMiLCJpZCI6IjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIxMjk0NSIsInBzIjoiwq7vuI/wn5G58J+HufCfh7wgVFcgIiwic2N5IjoiYXV0byIsInNuaSI6IjU1Lmx3ZGgudXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
