@@ -59,11 +59,6 @@ trojan://712e54fa-dc5b-4b98-881b-dcc9416a574a@5.135.235.160:443?type=tcp&sni=goo
 trojan://telegram-id-privatevpns@13.37.123.89:22222?security=tls&sni=google.com&allowInsecure=1#🇫🇷 France
 trojan://telegram-id-privatevpns@3.79.159.247:22222?security=tls&sni=google.com&allowInsecure=1#🇩🇪 Germany
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=google.com#🇨🇴 Colombia
-hy2://f206702e@82.152.142.65:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
-hy2://f206702e@82.152.142.66:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
-hy2://f206702e@82.152.142.67:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
-hy2://f206702e@82.152.142.68:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
-hy2://f206702e@82.152.142.69:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
 vless://93fa02ea-c848-4eb2-a0b5-065e21e527ca@172.66.46.49:443?path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&fp=randomized&type=ws&sni=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%A8%F0%9F%87%B5%F0%9F%87%A8%F0%9F%87%B5+FR
 vless://6dafbc98-1e6e-4aaf-aa40-632f7b90e591@104.18.124.193:443?path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&encryption=none&alpn=http/1.1&host=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&fp=randomized&type=ws&sni=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B8%F0%9F%87%AC+SG
 vless://952bdb68-a002-42ef-b50d-56f403cf71f7@104.21.31.174:443?path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&encryption=none&alpn=http/1.1&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&fp=randomized&type=ws&sni=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%BA%F0%9F%87%B8+US
