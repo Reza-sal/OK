@@ -55,12 +55,9 @@ vless://telegram-id-ArV2ray@116.203.188.159:8880?type=ws&host=google.com&path=%2
 vless://telegram-id-P%63V2ray@23.88.96.152:8080?type=ws&host=google.com&path=%2Ftelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%2Ctelegram-PcV2ry%3Fed%3D8080&ed=8080&eh=Sec-Websocket-Protocol&fp=chrome#🇩🇪 Germany
 vless://telli--ZEDMODEON@89.185.82.179:80?type=ws&host=google.com&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#🇷🇺 Russian Federation
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@45.15.157.21:7777?type=ws&host=google.com&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#🇫🇷 France
-vless://fi@217.197.107.43:7777?type=ws&host=google.com&path=%2F&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#🇷🇺 Russian Federation
 trojan://712e54fa-dc5b-4b98-881b-dcc9416a574a@5.135.235.160:443?type=tcp&sni=google.com&allowInsecure=1#🇫🇷 France
-trojan://96589a7c-c83f-4b42-b31c-d714627857f3@45.67.229.110:2053?type=tcp&sni=google.com&allowInsecure=1#🇲🇩 Moldova
 trojan://telegram-id-privatevpns@13.37.123.89:22222?security=tls&sni=google.com&allowInsecure=1#🇫🇷 France
 trojan://telegram-id-privatevpns@3.79.159.247:22222?security=tls&sni=google.com&allowInsecure=1#🇩🇪 Germany
-trojan://telegram-id-privatevpns@34.255.72.227:22222?security=tls&sni=google.com&allowInsecure=1#🇮🇪 Ireland
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=google.com#🇨🇴 Colombia
 hy2://f206702e@82.152.142.65:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
 hy2://f206702e@82.152.142.66:3341?insecure=1&sni=google.com#🇬🇧 United Kingdom
@@ -77,3 +74,8 @@ vless://92dfb99b-1051-4bbb-ae7d-16cb63495e52@104.18.111.164:443?path=%2FV2LINE-T
 vless://a33db513-a345-4f29-b4b4-7a94a33c2e05@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AEFinland+-33
 vless://d7d21b64-9081-4e29-9aef-381e4ea4e99b@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AEFinland+-32
 vless://66948aa5-ef11-4a69-9f5d-a9d8ad9a0530@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AEFinland+-30
+vless://6ddd6344-09d5-4f79-ba7a-d0c425e0f1df@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE+-37
+vless://b30fcb87-bd46-4ec0-813e-45fdf84f68d9@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE-38
+vless://dfc31fe0-ea4f-48bb-862b-65835ac4ef55@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE+-40
+vless://3fe719c1-4f46-4c93-955d-99c6631acf35@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE+-12
+vless://806185fb-9b88-4cff-8fba-17073d481aaa@tnl15.radnikmax.ir:8098?security=none&encryption=none&headerType=http&type=tcp#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%AB%F0%9F%87%AE%F0%9F%87%AB%F0%9F%87%AE+-13
