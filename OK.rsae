@@ -3,6 +3,10 @@
 //subscription-userinfo: upload=0; download=0; total=1079871236540000000; expire=8765432165
 //support-url: https://t.me/rsae63
 
+vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B9%F0%9F%87%B7%20MTN_%20%40freeconfig01
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@45.129.185.185:2060?mode=gun&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=f77e5398#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%A6%F0%9F%87%B2MTN_%20%40freeconfig01
+vless://70b31524-538d-4023-8021-0101af5b732f@188.227.86.79:8443?mode=gun&security=reality&encryption=none&pbk=Wo66u81tPNQOU79TUrMXJA7uqgAXPzWpDjYKdSEjFU4&fp=chrome&type=grpc&serviceName=JoinBadeChannel%40antimeli&sni=www.speedtest.net&sid=b4e8ea12a7#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B3%F0%9F%87%B1_%20%40freeconfig01
+
 vless://60985471-8040-bc44-213e-780f6a853aa9@62.60.233.158:8080?security=reality&encryption=none&pbk=RCJrxssGE3akICKN-Z6bVSCyi5vlX0U8VzxxCG7eAwU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B9%F0%9F%87%B7%20TR-_%20%40freeconfig01
 vless://473ca7ab-9fb1-4428-aae8-7870101f74b0@94.154.32.251:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=8880vless#%C2%AE%EF%B8%8F%F0%9F%91%B9%F0%9F%87%B9%F0%9F%87%B7_%20%40freeconfig01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYnJZcEpzUmZGdGxLdU8ySHlnQm9E@62.133.63.154:20255#%C2%AE%EF%B8%8F%F0%9F%91%B9%20%F0%9F%87%B9%F0%9F%87%B7_%20%40freeconfig01
